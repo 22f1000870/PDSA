@@ -1,4 +1,4 @@
-# PDSA
+# Python Data Structure and Algorithms
 PPA and Graded Solutions
 Updating weekly !!
 
